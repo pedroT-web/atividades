@@ -1,0 +1,41 @@
+
+*{
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    margin: 0;
+}
+
+.secoes h1{
+    align-items: center;
+
+    color: white;
+    background-color: #216eb7;
+}
+.secoes p{
+    color: white;
+    background-color: #216eb7;
+}
+
+.secoes{
+    width: 80%;
+    background-color: #216eb7;
+
+    margin: 10px;
+    border-radius: 10px;
+
+    box-shadow: 1px 1px 9px 3px #649be7;;
+}
+.alinhamento_titulos{
+    background-color: #216eb7;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.titulo_principal{
+    color: white;
+
+}
